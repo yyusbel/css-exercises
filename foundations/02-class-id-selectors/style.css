@@ -3,14 +3,15 @@
 background-color: #ffc0cb;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.two{
+#two{
     color: #0000ff;
     font-size: 36px;
 }
 .three{
     font-size: 24px;
 }
-.four{
+#four{
     background-color: #90ee90;
     font-size: 24px;
+    font-weight: bold;
 }
